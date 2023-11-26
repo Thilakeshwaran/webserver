@@ -71,9 +71,9 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
-server output
+<h1>server output</h1>
 ![output1](https://github.com/Thilakeshwaran/webserver/assets/147473132/239a8f7b-13f0-4cdd-b502-f133a7990ec4)
-client output
+<h1>client output</h1>
 ![output2](https://github.com/Thilakeshwaran/webserver/assets/147473132/63035499-263d-4185-9923-da3c517d8482)
 
 ## RESULT:
